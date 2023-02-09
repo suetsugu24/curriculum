@@ -1,0 +1,9 @@
+ー問ー
+（１）MACアドレス：AAAA.AAAA.AAAA
+　　　　A:　A8 AA FF FE AA AA AA
+
+（２）MACアドレス：9876.5432.10FE
+　　　　A：9A 76 54 FF FE 32 10 FE
+
+（３）MACアドレス：FFFF.FFFF.FFFF
+　　　　A：FD FF FF FF FE FF FF FF
